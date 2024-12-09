@@ -1,7 +1,8 @@
 # Smart-Pack-for-Advanced-Research-and-Control (SPARC)
 The SPARC Pack is an open-source, research-grade battery system designed to advance thermal and electro-thermal modeling techniques while integrating state-of-the-art sensing and Battery Management System (BMS) technologies. Its modular design supports both cylindrical and pouch cell configurations, enabling cutting-edge investigations into battery performance, health, and reliability under diverse operating conditions.
 
-## Variations
+### Variations
+A pack designed around the Samsung 30Q as a 10S1P nominal 40 V pack. 
 
 ## Licensing and Citation
 
