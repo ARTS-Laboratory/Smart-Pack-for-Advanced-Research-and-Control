@@ -7,7 +7,7 @@ A pack designed around the Samsung 30Q as a 10S1P nominal 42 V 30 Ah pack.
 ## Columbia
 A pack designed around the Samsung 40T as a 10S1P nominal 42 V 40 Ah pack. 
 
-## Florance
+## Florence
 A pack designed around the Hakadi 18650E-1500 as a 10S1P nominal 30 V 15 Ah pack. 
 
 ## Denmark
