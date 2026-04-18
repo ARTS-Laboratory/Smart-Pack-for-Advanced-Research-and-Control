@@ -15,7 +15,7 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this as: 
 
-@Misc{ARTSLSmartPackAdvanced,    
+@Misc{ARTSLabSmartPackAdvanced,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
   title  = {Smart-Pack-for-Advanced-Research-and-Control},    
