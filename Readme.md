@@ -21,7 +21,7 @@ Cite this as:
   title  = {Smart-Pack-for-Advanced-Research-and-Control},    
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/Smart-Pack-for-Advanced-Research-and-Control},   
-  notes  = {Accessed: Month dd, yyyy},   
+  note  = {Accessed: Month dd, yyyy},   
 }
 
 <p align="center">
