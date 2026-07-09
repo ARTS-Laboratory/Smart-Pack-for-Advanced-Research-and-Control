@@ -3036,6 +3036,18 @@
 		(layer "Edge.Cuts")
 		(uuid "984c12b8-3e9b-4765-8404-1554ff9539bb")
 	)
+	(gr_text "Cell Balancer, V.0.2.2, 7/9/2026, Cebastione Bailey,\n University of South Carolina, ARTS Lab"
+		(at 106.5 76 270)
+		(layer "F.SilkS")
+		(uuid "bcb6dd51-ff02-4b1b-b1be-733c759343c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 101 73)
 		(end 77.08 73)
