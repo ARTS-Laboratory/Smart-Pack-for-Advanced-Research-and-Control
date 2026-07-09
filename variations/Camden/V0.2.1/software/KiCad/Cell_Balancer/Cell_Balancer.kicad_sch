@@ -1369,7 +1369,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 91.44 90)
 			(effects
 				(font
@@ -1439,7 +1439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 120.65 90)
 			(effects
 				(font
@@ -1467,10 +1467,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "82e3f93b-9514-4574-8745-b970734a95f2")
+			(uuid "82e3f93b-9514-4574-8745-b970734a95f3")
 		)
 		(pin "1"
-			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ea")
+			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416eb")
 		)
 		(instances
 			(project ""
@@ -1509,7 +1509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-11-5.08_1x11_P5.08mm_Horizontal"
 			(at 128.27 80.01 0)
 			(effects
 				(font
@@ -1606,7 +1606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 101.6 90)
 			(effects
 				(font
@@ -1634,10 +1634,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "82e3f93b-9514-4574-8745-b970734a95f2")
+			(uuid "82e3f93b-9514-4574-8745-b970734a95f4")
 		)
 		(pin "1"
-			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ea")
+			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ec")
 		)
 		(instances
 			(project ""
@@ -1676,7 +1676,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 60.96 90)
 			(effects
 				(font
@@ -1746,7 +1746,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 81.28 90)
 			(effects
 				(font
@@ -1774,10 +1774,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "82e3f93b-9514-4574-8745-b970734a95f2")
+			(uuid "82e3f93b-9514-4574-8745-b970734a95f5")
 		)
 		(pin "1"
-			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ea")
+			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ed")
 		)
 		(instances
 			(project ""
@@ -1816,7 +1816,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 110.49 90)
 			(effects
 				(font
@@ -1844,10 +1844,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "82e3f93b-9514-4574-8745-b970734a95f2")
+			(uuid "82e3f93b-9514-4574-8745-b970734a95f6")
 		)
 		(pin "1"
-			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ea")
+			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ee")
 		)
 		(instances
 			(project ""
@@ -1886,7 +1886,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 40.64 90)
 			(effects
 				(font
@@ -1956,7 +1956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 71.12 90)
 			(effects
 				(font
@@ -1984,10 +1984,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "82e3f93b-9514-4574-8745-b970734a95f2")
+			(uuid "82e3f93b-9514-4574-8745-b970734a95f7")
 		)
 		(pin "1"
-			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ea")
+			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ef")
 		)
 		(instances
 			(project ""
@@ -2026,7 +2026,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 50.8 90)
 			(effects
 				(font
@@ -2096,7 +2096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 130.81 90)
 			(effects
 				(font
@@ -2124,10 +2124,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "82e3f93b-9514-4574-8745-b970734a95f2")
+			(uuid "82e3f93b-9514-4574-8745-b970734a95f8")
 		)
 		(pin "1"
-			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416ea")
+			(uuid "289cc7d7-9a4a-4939-a895-0bb913e416f0")
 		)
 		(instances
 			(project ""
